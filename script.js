@@ -3,7 +3,6 @@ correctWord = getWord()
 noLives = 7
 
 window.onload = function() {
-    console.log(correctWord);
     generateWordPreview();
 };
 
