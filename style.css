@@ -1,0 +1,10 @@
+#wordPreviewTable td {
+    border: 1px solid black;
+    padding: 2em;
+}
+
+#livesTable td {
+    border: 1px solid black;
+    padding: 2em;
+    background-color: red;
+}
