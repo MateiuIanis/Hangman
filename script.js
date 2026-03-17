@@ -1,4 +1,4 @@
-words = ["house", "mother", "cat", "welcome", "father", "google"]
+words = ["house", "mother", "cat", "welcome", "father", "tree", "apple", "car", "police", "happy"]
 correctWord = getWord()
 noLives = 7
 
